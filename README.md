@@ -1,6 +1,5 @@
 # Snippets
 Most essential snippets
-
 Grouping of the most essential snippets to create an RP server.
 
 For more information see my topic:
