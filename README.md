@@ -7,4 +7,5 @@ For more information see my topic: https://forum.cfx.re/t/lsdc-anti-cheat-securi
 Remember to add start folder to your server.cfg
 
 Site : https://leserveurdechapo.mtxserv.com/fivem/
+
 Discord : https://discord.gg/cggeVkm
